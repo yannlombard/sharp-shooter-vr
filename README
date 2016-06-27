@@ -1,3 +1,18 @@
+Roadmap
+=======
+
+- [x] Matériel : PS Move, PS Move navigation controller, PS Sharp Shooter, Cardboard
+- [x] Pilote OSX pour le PS Move
+- [x] Pilote OSX pour le PS Move navigation controller
+- [x] Package unity pour le PS Move
+- [ ] Package unity pour le PS Move navigation controller
+- [ ] Tuto FPS Unity (map, skin, déplacement, shoot et support du multi)
+- [ ] Support du Cardboard
+- [ ] Commandes du PS Move navigation controller depuis OSX vers Cardboard
+- [ ] Commandes du PS Move depuis OSX vers Cardboard
+- [ ] Synchroniser les mouvements du sharp shooter avec le shooter visible dans le cardboard
+- [ ] Support multi
+
 Installation
 ============
 
